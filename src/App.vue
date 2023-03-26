@@ -1,5 +1,5 @@
 <template>
-  Ola
+  
 </template>
 
 <script setup>
